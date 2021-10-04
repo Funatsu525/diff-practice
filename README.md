@@ -1,4 +1,4 @@
-# diff-practice
+﻿# diff-practice
 diff練習用
 変更working用22
 
@@ -6,4 +6,4 @@ diff練習用
 
 こっちもworkingで変えたよ
 
-mainブランチで変更
+mergetoolコンフリクト(featureブランチ)
