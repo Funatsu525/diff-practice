@@ -1,9 +1,4 @@
 ﻿# diff-practice
 diff練習用
-変更working用22
-
-3kaime
-
-こっちもworkingで変えたよ
-
-mergetoolコンフリクト(featureブランチ)
+rebase練習
+mainブランチで更新
